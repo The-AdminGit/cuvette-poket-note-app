@@ -18,7 +18,7 @@ function App() {
   const checkScreenSize = () => {
     setScreenSize(window.innerWidth);
   };
-
+//file
   window.addEventListener("resize", checkScreenSize);
   return (
     <Provider>
